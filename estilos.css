@@ -92,7 +92,7 @@ nav a:hover {
 /*ESTILOS DE BANNER*/
 .banner {
     /*Imagen de fondo*/
-    background-image: url(/Users/rociobattilana/Documents/rochi/Facultad/DISEÑO 3/programación/rociobattilana.github.io/media/background_first.jpg);
+    background-image: url(media/background_first.jpg);
     /*Posición del fondo x|y*/
     background-position: center bottom;
     /*¿Repetir fondo? (tramas)*/
