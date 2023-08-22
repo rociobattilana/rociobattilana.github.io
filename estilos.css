@@ -9,7 +9,9 @@
 }
 
 /*Importar tipografía de google fonts vía @import (sin etiquetas <style>)*/
-@import url('https://fonts.google.com/specimen/Roboto');
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
 /*Esto me permite utilizar la tipografía en todo el contenido de body. Como standard vamos a usar la 100*/
 
 body {
