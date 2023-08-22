@@ -1,3 +1,8 @@
+*Importar tipografía de google fonts vía @import (sin etiquetas <style>)*/
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+/*Esto me permite utilizar la tipografía en todo el contenido de body. Como standard vamos a usar la 100*/
 /*Este es un comentario de CSS*/
 /*Los comentarios de CSS no se renderizan en la página*/
 /*Todas las declaraciones de estilo se encuentran en el CSS, el HTML es para contenido únicamente*/
@@ -8,12 +13,7 @@
     margin: 0px;
 }
 
-/*Importar tipografía de google fonts vía @import (sin etiquetas <style>)*/
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
-
-/*Esto me permite utilizar la tipografía en todo el contenido de body. Como standard vamos a usar la 100*/
-
+/
 body {
     /*Declaración de tipografía*/
     font-family: 'Poppins',Georgia, 'Roboto', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
